@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Grupo Edilene de Melo</title>
+  <desc id="logo-desc">Símbolo de arquitetura e imóveis com traços vermelhos e brancos.</desc>
+  <circle cx="100" cy="100" r="92" stroke="#FFFFFF" stroke-width="2" opacity=".1"/>
+  <path d="M165 48C140 18 90 12 50 32 20 48 8 85 15 125" stroke="#E52427" stroke-width="12" stroke-linecap="round"/>
+  <path d="m92 88 63-43" stroke="#E52427" stroke-width="12" stroke-linecap="round"/>
+  <path d="M42 70v95l58-43 58 43V75" stroke="#FFFFFF" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M160 70c15 20 22 50 10 82-15 28-50 43-85 38" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>
